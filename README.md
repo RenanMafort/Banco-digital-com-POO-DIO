@@ -1,2 +1,2 @@
 # Banco-digital-com-POO-DIO
-Pequeno projeto feito na plataforma DIO
+Pequeno projeto de "Sacar" e "Depositar" dinheiro na conta feito na plataforma DIO
